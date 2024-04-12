@@ -13,6 +13,8 @@ NEWS
 - metadata has been revised to include also a config file needed to the data manager to streamline the importing of new entries (importing.yalm) that needs to be filled in
 - step 7 for simulations_analysis has been revised to include the right python module to use (python2.7)
 - from now on on new entries we will only support data collected with the saturation mutlist and using pancancer_clinvar_saturation.py for cancermuts
+
+11/04/2024
 - denovo_phospho has been moved back to 'dev' since we need to include some changes in the design to make it less time consuming before starting a large data collection
 
 10/04/2024
