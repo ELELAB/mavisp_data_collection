@@ -9,6 +9,9 @@ Here we post issues for the following purposes:
 
 NEWS
 
+18/04/2024
+- phosphodenovo has been revised and available in mavisp_templates for data collection
+
 15/04/2024
 - templates for ptm.md have been added to mavisp_templates in shared_projects
 
