@@ -9,6 +9,13 @@ Here we post issues for the following purposes:
 
 NEWS
 
+22/04/2024
+- step 5 of simulations_analysis has been updated including a script in python2 to add the chain identifier for mutatex calculations
+- clinvar.py in clinvar_gene has been updated in light of this pull request: https://github.com/ELELAB/CSB-scripts/pull/371 - we have updated in both mavisp_templates and mavisp_automatization
+- a new version of cancermuts is available in light of this PR: https://github.com/ELELAB/cancermuts/pull/198 which allows to interact with a local version of ELM through the recently
+  published gget elm:  https://academic.oup.com/bioinformatics/article/40/3/btae095/7611647 - the template file for pancancer_clinvar_saturation.py has been modified in mavisp_templated and in mavisp_automatization since it is the one to use from now on. 
+
+
 15/04/2024
 - templates for ptm.md have been added to mavisp_templates in shared_projects
 
