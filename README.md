@@ -9,6 +9,10 @@ Here we post issues for the following purposes:
 
 NEWS
 
+25/04/2024
+
+- updated readme for step 7 of simulations_analysis to cover cases with residue type HISE, HISD and HISH from CHARMM36m simulations
+
 22/04/2024
 - step 5 of simulations_analysis has been updated including a script in python2 to add the chain identifier for mutatex calculations
 - clinvar.py in clinvar_gene has been updated in light of this pull request: https://github.com/ELELAB/CSB-scripts/pull/371 - we have updated in both mavisp_templates and mavisp_automatization
