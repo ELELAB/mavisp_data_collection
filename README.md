@@ -9,6 +9,9 @@ Here we post issues for the following purposes:
 
 NEWS
 
+27/04/2024
+- updated mavisp templates for long_range with distance cutoff set to 15 Ang after ASM publication and exploration of other similar cases
+
 25/04/2024
 
 - updated readme for step 7 of simulations_analysis to cover cases with residue type HISE, HISD and HISH from CHARMM36m simulations
