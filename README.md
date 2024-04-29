@@ -9,6 +9,10 @@ Here we post issues for the following purposes:
 
 NEWS
 
+29/04/2024
+
+- updated pdbminer_complexes to solve this issue: https://github.com/ELELAB/CSB-scripts/issues/418 
+
 27/04/2024
 - updated mavisp templates for long_range with distance cutoff set to 15 Ang after ASM publication and exploration of other similar cases
 
