@@ -9,6 +9,9 @@ Here we post issues for the following purposes:
 
 NEWS
 
+24/05/2024
+- new clinvar.py version with support of genomic coordinates
+
 29/04/2024
 
 - updated pdbminer_complexes to solve this issue: https://github.com/ELELAB/CSB-scripts/issues/418 
