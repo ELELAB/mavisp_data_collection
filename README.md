@@ -1,6 +1,6 @@
 # mavisp_data_collection
 
-Here we post issues for the following purposes:
+Here we post issues  or news for the following purposes:
 - revision or importing of entries to mavisp database
 - issues to fix with the toolkit for mavisp
 - ideas for new development and methods to use in the framework
@@ -8,6 +8,9 @@ Here we post issues for the following purposes:
 
 
 NEWS
+
+05/07/2024
+- the first release of mavisp saturation is available (simple mode) - importing for the ensemble mode is ongoing
 
 24/05/2024
 - new clinvar.py version with support of genomic coordinates
