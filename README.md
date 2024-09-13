@@ -9,6 +9,11 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+13/09/2024
+
+- we have introduced in dot_plot.py loss/gain of function for DeMask and efoldmine annotations
+- the default to assign damaging effect for GEMME has been changed with a default value of 0.5 
+
 05/07/2024
 - the first release of mavisp saturation is available (simple mode) - importing for the ensemble mode is ongoing
 
