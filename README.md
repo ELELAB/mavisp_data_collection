@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+24/09/2024
+
+- new procedure for selecting complexes for local interactions in the guideline document
+
 13/09/2024
 
 - we have introduced in dot_plot.py loss/gain of function for DeMask and efoldmine annotations
