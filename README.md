@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+27/09/2024
+
+- mavisp_automatization now includes also the pdbminer_complexes step
+
 24/09/2024
 
 - new procedure for selecting complexes for local interactions in the guideline document
