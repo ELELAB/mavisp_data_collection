@@ -9,6 +9,13 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+05/10/2024
+
+-- we have introduced in dot_plot.py loss/gain of function for GEMME
+- the default to assign damaging effect for GEMME have been changed with a default value of -3 (loss-of-function) and 3 (gain-of-function) and using the "GEMME Score"
+- the default to assign damaging effect for DeMaSk have been changed with a default value of -0.25 (loss-of-function) and 0.25 (gain-of-function)
+- we should not import results on variants in MET1 since a mutation in this code would interrupt transcription and do not result in a full-lenght protein
+
 27/09/2024
 
 - mavisp_automatization now includes also the pdbminer_complexes step
@@ -19,7 +26,7 @@ NEWS
 
 13/09/2024
 
-- we have introduced in dot_plot.py loss/gain of function for DeMask and efoldmine annotations
+- we have introduced in dot_plot.py loss/gain of function for DeMaSk and efoldmine annotations
 - the default to assign damaging effect for GEMME has been changed with a default value of 0.5 
 
 05/07/2024
