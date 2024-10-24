@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+24/10/2024
+
+- the procheck step within structure_selection has been implemented in mavisp_automatization, new templates available for data collection on the local server
+. a wrapper around simulations_analysis is available in the mavisp_templates on the local server 
 
 
 05/10/2024
