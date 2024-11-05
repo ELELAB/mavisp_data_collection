@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+05/11/2024 
+- a new version of SLiMfast is available for data analysis which integrate the filtering step based on solvent accessibility 
+
 24/10/2024
 
 - the procheck step within structure_selection has been implemented in mavisp_automatization, new templates available for data collection on the local server
