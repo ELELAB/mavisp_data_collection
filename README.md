@@ -9,6 +9,11 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+14/11/2024 
+
+- updates in mavisp_automatization that requries to update the template folder for data colleciton - includes a fix for the folder name in cancermuts_data and in
+  the script for the domain annotations
+
 05/11/2024 
 - a new version of SLiMfast is available for data analysis which integrate the filtering step based on solvent accessibility 
 
