@@ -9,6 +9,11 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+19/11/2024
+
+- new templates file for mutatex_automatization
+- new version of mavisp_automatization with support to custom PDB file in input 
+
 14/11/2024 
 
 - updates in mavisp_automatization that requries to update the template folder for data colleciton - includes a fix for the folder name in cancermuts_data and in
