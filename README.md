@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+20/11/2024 
+
+- new version of Mol_Analysis.py with fixed labels in pdf and with option to perform gmindist using a slicing of the trajectory
+
 19/11/2024
 
 - new templates file for mutatex_automatization
