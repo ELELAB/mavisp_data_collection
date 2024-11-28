@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+28/11/2024 
+- fixed a bug in mavisp_automatization for the generation of the saturation mutlist
+
 20/11/2024 
 
 - new version of Mol_Analysis.py with fixed labels in pdf and with option to perform gmindist using a slicing of the trajectory
