@@ -8,6 +8,8 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
+29/11/2024 
+- new templates available for custom analysis with long-range modules in simple and ensemble mode for cofactor bindign sites or catalytic sites of enzymes
 
 28/11/2024 
 - fixed a bug in mavisp_automatization for the generation of the saturation mutlist
