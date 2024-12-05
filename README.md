@@ -8,6 +8,9 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
+05/12/2024
+- new pancancer.py template for cases where cancermuts fail in retriving entrez ID
+
 29/11/2024 
 - new templates available for custom analysis with long-range modules in simple and ensemble mode for cofactor bindign sites or catalytic sites of enzymes
 
