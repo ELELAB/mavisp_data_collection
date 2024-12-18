@@ -8,6 +8,11 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
+
+18/01/2024
+
+templates for step 6 of simulations_analysis corrected for the groups for rmsd calculation (i.e. mainchain)
+
 05/12/2024
 - new pancancer.py template for cases where cancermuts fail in retriving entrez ID
 
