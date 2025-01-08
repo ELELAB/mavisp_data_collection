@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+08/01/2025 
+
+revised version of mavisp_automatization snakemake to fix issues with PTM and RaSP experienced in December
+
 18/01/2024
 
 templates for step 6 of simulations_analysis corrected for the groups for rmsd calculation (i.e. mainchain)
