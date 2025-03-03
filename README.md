@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+03/03/2025
+revised version of mavisp_automatization snakemake to fix a bug with PTM module for multi-domai proteins
+
 08/01/2025 
 
 revised version of mavisp_automatization snakemake to fix issues with PTM and RaSP experienced in December
