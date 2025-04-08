@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+08/04/2025
+
+We have fixed a problem that made the MAVISp_automatization crash when multiple Gene ID where found to be associated with a protein's RefSeq identifier
+
 03/03/2025
 revised version of mavisp_automatization snakemake to fix a bug with PTM module for multi-domai proteins
 
