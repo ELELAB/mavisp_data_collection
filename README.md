@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+11/04/2025
+
+A new metadata template is available where also the source of structure should be reported
+
 08/04/2025
 
 We have fixed a problem that made the MAVISp_automatization crash when multiple Gene ID where found to be associated with a protein's RefSeq identifier
