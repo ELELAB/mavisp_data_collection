@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+12/05/2025
+
+Updated get_mutlist.py 
+
 11/04/2025
 
 A new metadata template is available where also the source of structure should be reported
