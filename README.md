@@ -9,6 +9,15 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+06/06/2025
+
+A new version of the AlloSigMA2 workflow for the simple mode LONG_RANGE module is available aligned with the benchmark study under revision for JMB. Each new entry should be using
+this workflow. We will annotate method and relevant cutoffs in the metadata. The updates of old entries will be carried out during the yearly updates of 2025 (June-August 2025).
+
+02/06/2025
+
+We have updated Mol_Analysis for the quality control of the MD simulations and pre-md steps so that the average rmsd matrix is calculated more efficiently 
+
 12/05/2025
 
 Updated get_mutlist.py 
