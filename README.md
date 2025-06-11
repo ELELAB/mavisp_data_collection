@@ -9,10 +9,14 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+
+
 06/06/2025
 
 A new version of the AlloSigMA2 workflow for the simple mode LONG_RANGE module is available aligned with the benchmark study under revision for JMB. Each new entry should be using
 this workflow. We will annotate method and relevant cutoffs in the metadata. The updates of old entries will be carried out during the yearly updates of 2025 (June-August 2025). We also revised one of the scripts of the LONG_RANGE module in ensemble mode for the psn-path analysis for a modification that make the calculation independent from the starting structure. Use new templates for new runs and the update of the old entries is also ongoing.
+
+The pdbminer_complexes tool was updated to enhance the binding-interface flag, now allowing detection of target chain(s) interfaces across all other chains in the complex, especially useful for multimeric complexes.
 
 02/06/2025
 
