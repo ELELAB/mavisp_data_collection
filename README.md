@@ -9,7 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+12/06/2025
 
+We have updated mavisp_automatization snakemake. Now there is a new feature that automatically generates metadata.yaml, importing.yaml, and a simple_mode/ folder for each curated protein. This ensures all essential content is structured and ready for direct import into the MAVISP database.
 
 06/06/2025
 
