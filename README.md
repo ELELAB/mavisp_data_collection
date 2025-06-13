@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+13/06/2025
+
+We have fixed a recent bug in mentha2pdb.py: replaced usage of pypdb with direct RCSB API queries to restore PDB extraction, as pypdb was incompatible with the current RCSB API.
+
 12/06/2025
 
 We have updated mavisp_automatization snakemake. Now there is a new feature that automatically generates metadata.yaml, importing.yaml, and a simple_mode/ folder for each curated protein. This ensures all essential content is structured and ready for direct import into the MAVISP database.
