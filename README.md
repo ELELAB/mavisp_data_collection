@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+19/06/2025
+In mavisp_automatization, improved support for curating entries without specifying a RefSeq ID
+
 13/06/2025
 
 We have fixed a recent bug in mentha2pdb.py: replaced usage of pypdb with direct RCSB API queries to restore PDB extraction, as pypdb was incompatible with the current RCSB API.
