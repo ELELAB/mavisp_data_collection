@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+26/06/2025
+Introduction in structure_selection of uniprot2refseq.py to support the identification of the proper RefSeq ID for the given uniprot AC of the protein target
+
+
 19/06/2025
 In mavisp_automatization, improved support for curating entries without specifying a RefSeq ID
 
