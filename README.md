@@ -9,8 +9,14 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+
+02/07/2025 
+
+We updated the templates for the psn-path analysis in simulations_analysis (ensemble mode) as edge cases were not correctly concatenated 
+
+
 26/06/2025
-Introduction in structure_selection of uniprot2refseq.py to support the identification of the proper RefSeq ID for the given uniprot AC of the protein target
+Introduction in structure_selection of uniprot2refseq.py to support the identification of the proper RefSeq ID for the given uniprot AC of the protein target. We are also updating some entries with wrong RefSeq ID and we will release the updates publicly in October 2025
 
 
 19/06/2025
