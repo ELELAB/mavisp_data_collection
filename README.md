@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+14/07/2025
+
+We have updated the data from ELM that gget uses for the detection of short linear motifs in the protein sequences using Cancermuts
+
 02/07/2025
 
 New programmatic solution to generate gitbook reports available in the mavisp_templates for curators. This generates a Markdown template file of the report that can be further customized and then curators can ask an import to the MAVISp gitbook through this github space.
