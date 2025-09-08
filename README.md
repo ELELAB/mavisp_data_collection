@@ -9,6 +9,12 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+08/09/2025 
+
+All proteins have been updated with new long range protocol in simple mode
+
+Modified the aggregate script’s parsing of PDBminer_complexes output to correctly handle cases where the target protein has multiple chains in the complex structure
+
 14/07/2025
 
 We have updated the data from ELM that gget uses for the detection of short linear motifs in the protein sequences using Cancermuts
