@@ -8,12 +8,6 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
-24/09/2025
-We have updated some of our data sources: 
-Phosphosite to version 6.8.1 (downloaded on 07/08/2025)
-COSMIC to version 101
-We have modified Cancermuts Python package so that is compatible with the latest COSMIC version
-Finally, we have finalized the introduction in mavisp_automatization of the aggregate step of PPI2PDB
 
 08/09/2025 
 
