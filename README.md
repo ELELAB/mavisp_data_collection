@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+09/10/2025
+update on mutatex automatization pipeline for compatibility with version 6 of the AF database
+
 08/09/2025 
 
 All proteins have been updated with a new long-range protocol in simple mode
