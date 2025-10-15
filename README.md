@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+15/10/2025
+update of slimfast for compatibility with version 6 of AFDB
+
 09/10/2025
 update on mutatex automatization pipeline for compatibility with version 6 of the AF database
 
