@@ -8,6 +8,8 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
+21/10/2025
+update of mavisp automatization for compatibility with version 6 of AFDB and to include full support to PPI2PDB and TED annotations
 
 15/10/2025
 update of slimfast for compatibility with version 6 of AFDB
