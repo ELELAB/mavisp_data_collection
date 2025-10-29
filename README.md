@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+29/10/2025 
+Fixed the miscalculation of the average change in allosteric free energy (avg_dG) among response sites induced by each mutation in the filtering step of the AlloSigMA workflow.
+
 21/10/2025
 update of mavisp automatization for compatibility with version 6 of AFDB and to include full support to PPI2PDB and TED annotations
 support to IDPs in automatization
