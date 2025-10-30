@@ -8,6 +8,8 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
+30/10/2025
+Fixed issue in mavisp_automatization to write in the final simple_mode folder the ted folder
 
 29/10/2025 
 Fixed the miscalculation of the average change in allosteric free energy (avg_dG) among response sites induced by each mutation in the filtering step of the AlloSigMA workflow.
