@@ -8,6 +8,12 @@ Here we post issues  or news for the following purposes:
 
 
 NEWS
+
+25/11/2025
+New module to cover variants impacting on native ss-bond or for de novo ss-bond upon mutation
+Fixed mavisp.py and dot_plot.py for GEMME thresholds and implemented options to choose different VEP for the discovery workflow
+Introduced a step in downstream_analysis for flagging variants with mechanistic indicators and low pLDDT scores
+
 30/10/2025
 Fixed issue in mavisp_automatization to write in the final simple_mode folder the ted folder
 
