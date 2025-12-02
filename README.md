@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+02/12/2025
+mavisp_automatization has been revised to allow for collection of only essential modules for importing - useful when there is planned downtime from external resources
+not needed for the basic importing
+
 25/11/2025
 New module to cover variants impacting on native ss-bond or for de novo ss-bond upon mutation
 Fixed mavisp.py and dot_plot.py for GEMME thresholds and implemented options to choose different VEP for the discovery workflow
