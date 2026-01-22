@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+22/01/2026
+Updated PDBMiner lo align to ePDB API changes and updated mentha2PDB.py
+
 02/12/2025
 mavisp_automatization has been revised to allow for collection of only essential modules for importing - useful when there is planned downtime from external resources
 not needed for the basic importing
