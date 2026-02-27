@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+27/02/2026
+
+Updated the curation pipeline (Cancermuts, MAVISp automatisation, MAVISp package) to pull ClinVar variants directly via Cancermuts and record the different ClinVar classification types in dedicated MAVISp database columns
+
 22/01/2026
 Updated PDBMiner lo align to ePDB API changes and updated mentha2PDB.py
 
