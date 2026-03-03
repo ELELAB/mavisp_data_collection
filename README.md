@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+03/03/2026
+
+We are currently unable to query gnomAD to retrieve allele frequency data. We are investigating the issue.
+
 27/02/2026
 
 Updated the curation pipeline (Cancermuts, MAVISp automatisation, MAVISp package) to pull ClinVar variants directly via Cancermuts and record the different ClinVar classification types in dedicated MAVISp database columns
