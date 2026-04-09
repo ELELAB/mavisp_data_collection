@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+09/04/2026
+
+We have officially switched to Foldx5.1 for data collection and the metadata contains now also the information on the foldx version used for each protein entry 
+
 03/03/2026
 
 We are currently unable to query gnomAD to retrieve allele frequency data. We are investigating the issue.
