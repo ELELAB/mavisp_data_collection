@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+21/04/2026
+Support for uniprot isoforms with manual templates is now available for curators
+
 09/04/2026
 
 We have officially switched to Foldx5.1 for data collection and the metadata contains now also the information on the foldx version used for each protein entry 
