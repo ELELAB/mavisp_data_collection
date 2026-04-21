@@ -10,6 +10,7 @@ Here we post issues  or news for the following purposes:
 NEWS
 
 21/04/2026
+
 Support for uniprot isoforms with manual templates is now available for curators
 
 09/04/2026
