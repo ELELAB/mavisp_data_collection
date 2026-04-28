@@ -9,6 +9,10 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+28/04/2026
+
+Support to predicted phosphorylation with netphos, glycosylation, dbPTM, glygen in cancermuts and mavisp_automatization
+
 21/04/2026
 
 Support for uniprot isoforms with manual templates is now available for curators
