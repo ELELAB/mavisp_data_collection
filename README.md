@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+07/05/2026 
+Support for PROCHECK quality assessment before MutateX scans is now available in custom_collect_scan, with automatic structure classification.
+
 28/04/2026
 
 Support to predicted phosphorylation with netphos, glycosylation, dbPTM, glygen in cancermuts and mavisp_automatization
