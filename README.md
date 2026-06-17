@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+17/06/2026 
+We introduced in MUTATEX workflow and MAVISP automatization the support to st_dev from energies.csv files
+
 07/05/2026 
 Support for PROCHECK quality assessment before MutateX scans is now available in custom_collect_scan, with automatic structure classification.
 
