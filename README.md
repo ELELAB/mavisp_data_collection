@@ -9,6 +9,9 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+18/06/2026
+A bug was found in the script that generates the input for the functional_sites module. The bug has been fixed and the data are under revision for this module both in the mavisp database and gitbook repository.
+
 17/06/2026 
 We introduced in MUTATEX workflow and MAVISP automatization the support to st_dev from energies.csv files
 
