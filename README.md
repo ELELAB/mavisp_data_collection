@@ -9,8 +9,11 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+22/06/2026
+Updated CancerMuts and its support in MAVISp automatization towards adding support for non-missense variants and minor bug fixes
+
 18/06/2026
-A bug was found in the script that generates the input for the functional_sites module. The bug has been fixed and the data are under revision for this module both in the mavisp database and gitbook repository.
+A bug was found in the script that generates the input for the functional_sites module. The bug has been fixed, and the data are under revision for this module both in the MAVISP database and the GitBook repository. Follow the issues for updates on their status.
 
 17/06/2026 
 We introduced in MUTATEX workflow and MAVISP automatization the support to st_dev from energies.csv files
