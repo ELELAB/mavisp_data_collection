@@ -9,6 +9,13 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+06/08/2026
+New Cancermuts version 2.1.1. 
+Added support for retrieving and annotating in-frame deletions, insertions, and deletion-insertion variants from cBioPortal, COSMIC, and ClinVar. 
+Fixed cBioPortal hg38 genomic mutations being incorrectly annotated as hg19.
+Fixed handling of mutations with NAs in cBioPortal.
+Extended gnomAD annotation to supported insertions, deletions, and deletion-insertion variants.
+
 22/06/2026
 Updated CancerMuts and its support in MAVISp automatization towards adding support for non-missense variants and minor bug fixes
 
