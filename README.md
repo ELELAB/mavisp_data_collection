@@ -9,6 +9,18 @@ Here we post issues  or news for the following purposes:
 
 NEWS
 
+12/11/2026
+
+a new version of the mutatex_automatization, mavisp_automatization, mavisp.py and downstream_analysis package is available where we support:
+- a dedicate module for phosphorylation which replace the general ptm ones. This will allow to develop tailored modules for each different PTM in the future since they same logic cannot be applied to all.
+- a migration from pandas to polars in Cancermuts for REVEL, dbPTM, and COSMIC. Fixed gnomAD annotation when exome or genome allele count data are missing and fixed COSMIC cancer site and histology metadata handling to filter out None values in Cancermuts
+- Handle missing Ensembl transcript IDs in mavisp_automatization
+- Added splicing module support in mavisp.py using Pangolin and SpliceAI
+- Added support for UniProt protein isoforms enabling automated analysis of alternative protein sequences in mavisp_automatization and Cancermuts
+
+September 2026
+String2PDB is now interacting with the new version of STRING
+
 06/08/2026
 New Cancermuts version 2.1.1. 
 Added support for retrieving and annotating in-frame deletions, insertions, and deletion-insertion variants from cBioPortal, COSMIC, and ClinVar. 
